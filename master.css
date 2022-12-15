@@ -38,12 +38,12 @@
 
 .line1{
     position: absolute;
-    bottom: 150px;
+    top: 800px;
 }
 
 .name{
     position: absolute;
-    bottom: 50px;
+    top: 840px;
 }
 
 .down{
